@@ -1,6 +1,5 @@
-version: 1.0
-url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"
-type: article
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Kfoury"
   given-names: "Perla"
@@ -8,5 +7,12 @@ authors:
   given-names: "Stefan"
 - family-names: "Tsai"
   given-names: "Tai-Peng"
+url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"
 title: "Stability-of-standing-waves-of-the-double-power-1D-NLS"
 year: 2021
+version: 1.0.0
+
+
+
+
+
