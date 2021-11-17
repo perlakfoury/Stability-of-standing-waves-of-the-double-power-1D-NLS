@@ -1,5 +1,6 @@
 version: 1.0
-url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"type: article
+url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"
+type: article
 authors:
 - family-names: "Kfoury"
   given-names: "Perla"
