@@ -1,16 +1,13 @@
-# This CITATION.cff file was generated with cffinit.
-# Visit https://bit.ly/cffinit to generate yours today!
-
-version: 2.0.4
+version: 1.0
 url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"
 preferred-citation:
-  type: article
-  authors:
-  - family-names: "Kfoury"
-    given-names: "Perla"
-  - family-names: "Le Coz"
-    given-names: "Stefan"
-  - family-names: "Tsai"
-    given-names: "Tai-Peng"
-  title: "Stability-of-standing-waves-of-the-double-power-1D-NLS"
-  year: 2021
+type: article
+authors:
+- family-names: "Kfoury"
+  given-names: "Perla"
+- family-names: "Le Coz"
+  given-names: "Stefan"
+- family-names: "Tsai"
+  given-names: "Tai-Peng"
+title: "Stability-of-standing-waves-of-the-double-power-1D-NLS"
+year: 2021
