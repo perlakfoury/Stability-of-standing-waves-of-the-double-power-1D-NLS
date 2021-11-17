@@ -1,14 +1,18 @@
 # This CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to generate yours today!
 
-cff-version: 1.2.0
-title: >-
-  Stability of standing waves of the double power 1D
-  NLS
-authors:
-  - given-names: Perla Kfoury
-    email: perla.kfoury@math.univ-toulouse.fr
-  - given-names: Stefan Le Coz
-    email: stefan.le-coz@math.univ-toulouse.fr
-  - given-names: Tai-Peng Tsai
-    email: ttsai@math.ubc.ca
+version: 2.0.4
+url: "https://github.com/perlakfoury/Stability-of-standing-waves-of-the-double-power-1D-NLS"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kfoury"
+    given-names: "Perla"
+  - family-names: "Le Coz"
+    given-names: "Stefan"
+  - family-names: "Tsai"
+    given-names: "Tai-Peng"
+  title: "Stability-of-standing-waves-of-the-double-power-1D-NLS"
+  issue: 1
+  volume: 1
+  year: 2021
